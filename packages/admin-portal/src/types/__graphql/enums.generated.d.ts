@@ -23,10 +23,10 @@ export enum Province {
 
 export enum RewardLevel {
   BRONZE = 'BRONZE',
-  SILVER = 'SILVER',
+  DIAMOND = 'DIAMOND',
   GOLD = 'GOLD',
   PLATINUM = 'PLATINUM',
-  DIAMOND = 'DIAMOND',
+  SILVER = 'SILVER'
 }
 
 export enum RewardPlanRelativeQueryFilterOperator {

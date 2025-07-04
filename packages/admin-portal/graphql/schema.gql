@@ -47,10 +47,10 @@ type Query {
 
 enum RewardLevel {
   BRONZE
-  SILVER
+  DIAMOND
   GOLD
   PLATINUM
-  DIAMOND
+  SILVER
 }
 
 type RewardPlan {
